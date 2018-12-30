@@ -1,5 +1,5 @@
-#ifndef __SIM808__H
-#define __SIM808__H
+#ifndef __SIM8XX__H
+#define __SIM8XX__H
 
 #include <stdint.h>
 
